@@ -2,9 +2,8 @@
 *
 *create by zhouzuchuan (.com)
 *https://github.com/zhouzuchuan/timer
-*兼容性 ： IE6+/FF/Chrome... 
+*兼容性 ： IE6+/FF/Chrome...
 *版本 ： v1.0 【2015.04.16】
-*                
 *
 */
 
